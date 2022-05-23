@@ -1,0 +1,25 @@
+_repo: Reminiscences-of-the-Chattanooga-Campaign_68095
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Doan, Isaac C.
+    gutenberg_agent_id: '54596'
+    url: http://www.gutenberg.org/2009/agents/54596
+description: ''
+gutenberg_issued: '2022-05-15'
+identifiers:
+  gutenberg: '68095'
+language: en
+pgterms:marc905: 20220212163912doan
+pgterms:marc906: '1894'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Isaac C. Doan,1894.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Reminiscences of the Chattanooga Campaign
+url: http://www.gutenberg.org/ebooks/68095
